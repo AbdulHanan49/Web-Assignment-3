@@ -1,0 +1,44 @@
+body{
+    background-color:#19589f ;
+}
+
+.allButtons{
+  margin-left: 15%;
+}
+
+button {
+    
+    background-color: #19589f;
+    border: 2px solid white;
+    color: white;
+    padding: 35px 240px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 40px 2px;
+    cursor: pointer;
+  }
+  h4,h2,p,h3,h5{
+    color: white;
+  }
+  label,li{
+    color: white;
+  }
+
+.Title1{
+  margin-left:400px;
+}
+.Blog1{
+  margin-top: 50px;
+  margin-left:400px;
+}
+
+.SelectImage{
+  margin-top: 50px;
+  margin-left:400px;
+}
+.Blogsubmit{
+  margin-top: 20px;
+  margin-left:300px;
+}
